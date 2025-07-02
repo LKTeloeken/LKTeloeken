@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lucas Kuester Teloeken
 
+I'm a passionate Fullstack Developer based in Brazil 🇧🇷  
+I love working with modern technologies and I'm always looking to improve and learn new things.  
+Currently exploring the world of mobile development 📱
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+
+---
+
+## 💼 Currently
+
+Working as a Mid-level Fullstack Developer at [Sellflux](https://sellflux.com)  
+Focusing on building scalable and maintainable web applications  
+Always experimenting and improving code quality and performance
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [lucas.teloeken1@gmail.com](mailto:lucas.teloeken1@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/lucas-teloeken](https://www.linkedin.com/in/lucas-teloeken)
+
+---
+
+<!-- GitHub Stats Section (optional, remove if not wanted) -->
 <!--
-**LKTeloeken/LKTeloeken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasteloeken&show_icons=true&theme=default)
 -->
