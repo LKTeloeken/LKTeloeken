@@ -2,7 +2,7 @@
 
 I'm a passionate Fullstack Developer based in Brazil 🇧🇷  
 I love working with modern technologies and I'm always looking to improve and learn new things.  
-Currently exploring the world of mobile development 📱
+Currently exploring the world of **desktop applications** using Tauri 🖥️
 
 ---
 
@@ -13,6 +13,7 @@ Currently exploring the world of mobile development 📱
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=fff)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
@@ -37,9 +38,6 @@ Always experimenting and improving code quality and performance
 
 ---
 
-<!-- GitHub Stats Section (optional, remove if not wanted) -->
-<!--
 ## 📊 GitHub Stats
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasteloeken&show_icons=true&theme=default)
--->
