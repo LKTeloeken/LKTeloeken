@@ -35,9 +35,3 @@ Always experimenting and improving code quality and performance
 
 - 📧 Email: [lucas.teloeken1@gmail.com](mailto:lucas.teloeken1@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/lucas-teloeken](https://www.linkedin.com/in/lucas-teloeken)
-
----
-
-## 📊 GitHub Stats
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasteloeken&show_icons=true&theme=default)
