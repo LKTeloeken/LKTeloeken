@@ -25,7 +25,7 @@ Currently exploring the world of **desktop applications** using Tauri 🖥️
 
 ## 💼 Currently
 
-Working as a Mid-level Fullstack Developer at [Sellflux](https://sellflux.com)  
+Working as a Mid-level Fullstack Developer at [Suitable](https://suitable.com.br)  
 Focusing on building scalable and maintainable web applications  
 Always experimenting and improving code quality and performance
 
