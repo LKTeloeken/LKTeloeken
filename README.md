@@ -6,6 +6,8 @@
 
 <img align="left" src="assets/Aesthetic gif.gif" width="411" />
 
+<img align="left" src="assets/Rectangle 1.png" width="1" />
+
 ```haskell
 lkteloeken@github
 ------------------------------
